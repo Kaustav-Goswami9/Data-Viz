@@ -43,4 +43,17 @@
 
 * Q3: Workers strongly agree on systemic racism(46%), management issues(29.3%) and company's media only cares about company image(44.6%). Whereas, workers strongly disagree that community has become too complacent(28.4%). The workers think the company leadership doesn't care about the workers(45.9%) and people are insensitive while interacting with workers(40.2%).
 
-* 
+* Q7: 80% workers are not happy or satisfied with the company's structure and policies.
+
+* Q9: 55.2% workers prefer having a democratic union but also 37% think that having a expert instead of a representative is a better way of managing the community. 65.6% of workers are against a security team rule and 50.3% of the workers oppose a strong leader who does not collaborate effectively with the union.
+
+
+### Cat-5 Analysis
+
+* Q8: Workers have some trust on the community council(54.6%), the health and safety committee(45.4%), Internal audit teams(45.1%), the grievance committee(49.5%), the internal communications team(34.5%), the security team(45.3%) and the company’s postal services(46.2%). Whereas they have least trust on the company leadership(37.4%) and the union representatives(40.3%).
+
+* Q10: 91.6% of workers have no long-term disability, 79.4% have no chronic illness, only 16.8% have been unemployed for more than one year and 99.1% have never been evicted from company housing.
+
+* Q11: Since February 2020 almost 13.1% of the workers lost their job, 2.2% tested positive for COVID-19, 39.4% had a family member or a friend tested positive for COVID-19 out of which 13.5% died. 22.1% of the workers were worried about paying rent or mortgage and 1.9% quit their job to care for a child or family member.
+
+* Q16: 2.8% of workers had no proper identification, 4.9% could not find the polling place, 5.6% missed the registration deadline for a community event, 4% were barred from the event location, 1.5% could not obtain assistance to participate, 3.3% had to participate provisionally, 9.6% couldn't get off work to attend the event, 18.9% waited in line for more than an hour to participate, 4.6% were told their name was not on the list even after registering and 5.6% didn't receive a confirmation mail of their participation.
