@@ -30,3 +30,17 @@
 
 * Change "some college" to "college" in 'Education' column
 * add a new column age grp based on age
+
+### Cat-3 Analysis
+
+* Q4: CEO(44.5%), Department heads(40.2%) has the most significant impact and the company policies(36.1%) has somewhat impact on a worker's life 
+
+* Q6: 45.7% of workers think "only few" good leaders are there in the company. 
+
+* Q12 & 13: The company(31.5%) and the union(38.3%) want's workers to vote and earn their votes but the company(27.3%) and the union(13.8%) don't want workers to vote.
+
+### Cat-4 Analysis
+
+* Q3: Workers strongly agree on systemic racism(46%), management issues(29.3%) and company's media only cares about company image(44.6%). Whereas, workers strongly disagree that community has become too complacent(28.4%). The workers think the company leadership doesn't care about the workers(45.9%) and people are insensitive while interacting with workers(40.2%).
+
+* 
