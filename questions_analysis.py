@@ -20,4 +20,4 @@ for i, cat in enumerate([cat_3, cat_4, cat_5]):
         data[col].value_counts().plot.pie(autopct='%1.1f%%')
         plt.title(col)
     plt.tight_layout()
-    plt.savefig(f'cat_{i+3}.png')
+    plt.savefig(f'charts/cat_{i+3}.png')
