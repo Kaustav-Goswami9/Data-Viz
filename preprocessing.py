@@ -89,5 +89,3 @@ data = data.replace(mapping_q23).replace(mapping_q24).replace(mapping_q25)
 data = data.replace(mapping_q26).replace(mapping_q29)
 
 data.to_csv('no_encoding_data.csv', index=False)
-
-[print((i, data[i].nunique(), data[i].unique())) for i in data.columns]
