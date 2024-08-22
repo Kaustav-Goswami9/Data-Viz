@@ -2,8 +2,10 @@ import pandas as pd
 
 data = pd.read_csv('voting-survey_response.csv')
 data = data.fillna(-1).replace('Some college', 'College')
-data['Age_grp'] = pd.cut(data['age'], bins=[18, 35, 60, 100],
-                         labels=['Young', 'Middle', 'Old'])
+data['Age_grp'] = pd.cut(data['age'], bins=[18, 39, 60, 100],
+                         labels=['Young Adults', 'Middle-aged Adults', 'Senior Adults'])
+
+data.to_csv('modified_data.csv', index=False)
 
 # Mapping for Q1
 mapping_q1 = {'Q1': {1: 'Yes', 2: 'No'}}
