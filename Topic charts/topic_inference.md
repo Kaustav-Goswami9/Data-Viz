@@ -11,6 +11,12 @@
 - Young Adults have a higher proportion of people who either never vote or rarely vote compared to the older age groups. This suggests a potential lack of engagement in the electoral process among younger individuals.
 - The Middle-aged Adults group seems to be a transitional phase where the number of consistent voters is high, but there is still a noticeable percentage of individuals who are not as consistent.
 
+## **Topic-1_1-4: Separate age group distribution**
+- The distribution shows a trend where voting consistency increases with age. The older population is more engaged in voting compared to the younger and middle-aged groups.
+- The data suggests that younger and middle-aged individuals are more likely to rarely vote compared to older people.
+- The largest group of non-voters is the "Middle" age category, followed closely by "Young" voters.
+- There's a significant drop-off in the "Old" category, which has the smallest share of non-voters.
+
 ## **Topic: Race vs Age on Voter Category (Category-2: Union Elections and Voting)**
 ### **Summary:**
 - Racial differences in voting patterns: White voters more consistent, amoungst the rest, Black and Hispanic voters more sporadic.
