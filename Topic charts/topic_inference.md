@@ -1,4 +1,4 @@
-## **Topic-1: Age Group Distribution vs Voter Category**
+## **Topic-1: Age Group Distribution vs Voter Category (Category-2: Union Elections and Voting)**
 ### **Summary:**
 - Majority of all age groups consistently vote, with "Always Votes" being the dominant category.
 - Senior Adults are the most consistent voters; Young Adults are the least.
