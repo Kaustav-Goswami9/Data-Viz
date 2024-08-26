@@ -9,13 +9,3 @@ q15_columns = ['Q15_1', 'Q15_2', 'Q15_3', 'Q15_4']
 pivot_table = data[q15_columns].apply(pd.Series.value_counts).fillna(0)
 
 print(pivot_table)
-
-# Creating the pivot table
-pivot_table_voter_category = pd.pivot_table(
-    data,
-    values=q15_columns,
-    index='voter_category',
-    aggfunc=lambda x: x.value_counts()
-).fillna(0)
-
-print(pivot_table_voter_category)
